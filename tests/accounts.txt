@@ -1,0 +1,12 @@
+id	company	analytics	cmbs	vehicles	trucks	transactions	weather	explorer	dashboard	reports	disabled	max_tickers	tokens
+1	Test Co	1	0	1	1	0	1	1	1	0	0	10	500
+2	Fake Inc	0	1	0	0	1	0	0	1	1	1	5	300
+3	Alpha LLC	1	1	0	1	1	1	1	1	1	0	2	150
+4	Demo Group	0	0	1	1	0	0	0	1	0	0	8	200
+5	Mock Corp	1	1	1	0	1	1	1	0	1	1	3	400
+6	Foo Ltd	0	1	0	1	1	0	0	0	1	0	7	250
+7	Bar Co	1	0	1	0	0	1	1	1	0	1	9	350
+8	Sample Inc	1	1	1	1	1	1	0	1	0	0	6	275
+9	Acme LLC	0	0	0	0	1	1	1	1	1	1	4	100
+10	Placeholder	1	1	0	1	0	0	0	0	0	0	1	600
+
